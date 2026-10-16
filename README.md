@@ -1,4 +1,4 @@
-# Cisco PT and NetAcad projects and solutions
+# Cisco PT/NetAcad projects and solutions
 
 ### Repo goal
 
