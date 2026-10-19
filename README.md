@@ -12,7 +12,7 @@
 
 	- Passed final exam with 100%!
 
-- [ ] Course2: Networking Basics
+- [ ] Course2: Exploring Internet of Things with Cisco Packet Tracer
 
 - [ ] Course3: Networking Devices and Initial Configuration
 
